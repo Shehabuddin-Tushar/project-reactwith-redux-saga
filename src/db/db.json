@@ -1,0 +1,30 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"iPhone",
+            "price":150000,
+            "photo":"https://static.digit.in/product/thumb_198189_product_td_300.jpeg"
+        },
+        {
+            "id":2,
+            "name":"iPhone2",
+            "price":160000,
+            "photo":"https://static.digit.in/product/thumb_198189_product_td_300.jpeg"
+        },
+        {
+            "id":3,
+            "name":"iPhone3",
+            "price":170000,
+            "photo":"https://static.digit.in/product/thumb_198189_product_td_300.jpeg"
+        },
+        {
+            "id":4,
+            "name":"iPhone13",
+            "price":180000,
+            "photo":"https://static.digit.in/product/thumb_198189_product_td_300.jpeg"
+        }
+    ]
+
+    
+}
